@@ -1,0 +1,20 @@
+.img-rounded{
+    height: 140px;
+    width: 140px;
+    cursor: pointer;
+}
+.jumbotron{
+    background: black;
+}
+body{
+    background: blue;
+}
+strong{
+    color: orangered;
+}
+.directions{
+    color: magenta;
+}
+.container{
+    color: white;
+}
